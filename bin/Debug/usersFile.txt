@@ -1,0 +1,4 @@
+4
+Mahmoud,Salem,1,20,01224866606,29808010200951,mahmoud_s693@yahoo.com,0,15,Saad Mansour,Alexandria
+sherif,Rafik,2,19,01020304050,29808010200952,sherif@rafik.com,0,15,Maktabat,Alexandria
+Mohamed,Tarek,3,20,01234567891,29808010200953,mohamed@tarek.com,0,20,Sharaawy,Alexandria

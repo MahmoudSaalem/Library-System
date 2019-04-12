@@ -1,0 +1,4 @@
+1,Harry potter and the half blood prince,JK Rowling,Bloomsbury,9781551927565,25/8/2006,4,2,Magic,2,2
+1,Mystery,Sherif,Sherif Co,1234567891230,23/12/2014,100,98,Science fiction,2,2
+1,Lord of the rings,Lord,Sherbiny Co,1234567891235,23/7/2001,56,54,Fictional,2,2
+1,Harry potter and the chamber of secrets,JK Rowling,Bloomsbury,0000747538492,2/6/1998,10,9,Magic,1,1

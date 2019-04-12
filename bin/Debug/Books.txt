@@ -1,0 +1,2 @@
+1,Harry Potter,JK Rowling,Bloombury,1234567891230,25/2/2001,100,100,Magic,0,1
+1,The Lord of The Rings,Salem,Salem Co,1234567891231,24/12/2017,50,50,Fiction,0,0
