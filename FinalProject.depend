@@ -17,6 +17,8 @@
 	"mainMenu.h"
 	"Consfunctions.h"
 
+1514064694 ions.h"
+
 1514063852 d:\programs\code blocks\finalproject\struct.h
 
 1514063774 d:\programs\code blocks\finalproject\members.h
@@ -364,6 +366,132 @@
 	"Consfunctions.h"
 
 1514064694 source:c:\users\pc\desktop\finalproject\bin\finalproject\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"struct.h"
+	"members.h"
+	"books.h"
+	"borrows.h"
+	"validation.h"
+	"mainMenu.h"
+	"Consfunctions.h"
+
+1514076786 source:/Users/salem/Public/College/Projects/LibrarySystem/books.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"struct.h"
+	"members.h"
+	"books.h"
+	"borrows.h"
+	"validation.h"
+	"mainMenu.h"
+	"Consfunctions.h"
+
+1514063852 /Users/salem/Public/College/Projects/LibrarySystem/struct.h
+
+1514063774 /Users/salem/Public/College/Projects/LibrarySystem/members.h
+
+1514060700 /Users/salem/Public/College/Projects/LibrarySystem/books.h
+
+1514033902 /Users/salem/Public/College/Projects/LibrarySystem/borrows.h
+
+1514060834 /Users/salem/Public/College/Projects/LibrarySystem/validation.h
+
+1514033902 /Users/salem/Public/College/Projects/LibrarySystem/mainMenu.h
+
+1514036488 /Users/salem/Public/College/Projects/LibrarySystem/Consfunctions.h
+
+1514076834 source:/Users/salem/Public/College/Projects/LibrarySystem/borrows.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"struct.h"
+	"members.h"
+	"books.h"
+	"borrows.h"
+	"validation.h"
+	"mainMenu.h"
+	"Consfunctions.h"
+
+1514034310 source:/Users/salem/Public/College/Projects/LibrarySystem/Consfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"struct.h"
+	"members.h"
+	"books.h"
+	"borrows.h"
+	"validation.h"
+	"mainMenu.h"
+	"Consfunctions.h"
+
+1514066142 source:/Users/salem/Public/College/Projects/LibrarySystem/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"struct.h"
+	"members.h"
+	"books.h"
+	"borrows.h"
+	"validation.h"
+	"mainMenu.h"
+	"Consfunctions.h"
+
+1514059916 source:/Users/salem/Public/College/Projects/LibrarySystem/mainMenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"struct.h"
+	"members.h"
+	"books.h"
+	"borrows.h"
+	"validation.h"
+	"mainMenu.h"
+	"Consfunctions.h"
+
+1514076786 source:/Users/salem/Public/College/Projects/LibrarySystem/members.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"struct.h"
+	"members.h"
+	"books.h"
+	"borrows.h"
+	"validation.h"
+	"mainMenu.h"
+	"Consfunctions.h"
+
+1514064696 source:/Users/salem/Public/College/Projects/LibrarySystem/validation.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
